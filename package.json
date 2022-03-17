@@ -1,0 +1,19 @@
+{
+  "name": "mc-bot-thingies",
+  "version": "1.0.0",
+  "description": "ç",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FOREVEREALIZE/mc-bot-thingies.git"
+  },
+  "author": "FOREVEREALIZE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FOREVEREALIZE/mc-bot-thingies/issues"
+  },
+  "homepage": "https://github.com/FOREVEREALIZE/mc-bot-thingies#readme"
+}
